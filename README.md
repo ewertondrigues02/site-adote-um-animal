@@ -16,5 +16,6 @@ Em suma, o site institucional desenvolvido com HTML, CSS e JavaScript é uma fer
 
 # Uma das Fotos do Site
 
-![Captura de tela 2023-10-15 132837](https://github.com/ewertondrigues02/site-adote-um-animal/assets/106437473/5353982d-06af-4747-8ee0-3cb0dbaba9fd)
+![Captura de tela 2023-10-15 133429](https://github.com/ewertondrigues02/site-adote-um-animal/assets/106437473/24fc952d-ec3d-4fba-a6c7-02efc39b1283)
+
 
