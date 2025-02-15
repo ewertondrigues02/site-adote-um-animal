@@ -1,21 +1,82 @@
-# Site Intitucional de Adoção de Animais
+# Adote Um Animal
 
-O site institucional dedicado à adoção de animais, desenvolvido com HTML, CSS e JavaScript, é uma plataforma online que visa promover a adoção responsável de animais de estimação. Este site oferece uma experiência envolvente e informativa para os usuários interessados em adotar um novo companheiro peludo.
+Bem-vindo ao projeto **Adote Um Animal**, uma plataforma interativa para adoção de animais e conscientização sobre a fauna. O objetivo deste projeto é promover a adoção responsável e fornecer informações sobre diferentes espécies de animais.
 
-A página inicial do site recebe os visitantes com uma interface amigável e convidativa, exibindo imagens cativantes de animais disponíveis para adoção e fornecendo informações básicas sobre o processo de adoção e os benefícios de dar um lar amoroso a um animal resgatado.
+## 📌 Visão Geral
 
-O layout do site é cuidadosamente projetado para garantir a facilidade de navegação e acessibilidade. O design responsivo permite que os usuários acessem o site em uma variedade de dispositivos, como computadores, tablets e smartphones, garantindo uma experiência consistente em diferentes plataformas.
+O projeto **Adote Um Animal** é um site responsivo e dinâmico que exibe informações sobre animais disponíveis para adoção, além de permitir interações como login, pesquisa e reservas. Ele foi desenvolvido utilizando **HTML, CSS e JavaScript**, além de bibliotecas externas para melhorar a experiência do usuário.
 
-Uma seção dedicada aos animais disponíveis para adoção apresenta perfis detalhados de cada animal, incluindo fotos, descrição da personalidade, idade, raça (se aplicável) e informações sobre o estado de saúde e vacinação. Os usuários podem filtrar os resultados de acordo com suas preferências, como espécie, idade e localização.
+## 🚀 Tecnologias Utilizadas
 
-Além disso, o site oferece recursos adicionais, como artigos informativos sobre cuidados com os animais de estimação, dicas para introduzir um novo animal em casa e orientações sobre a importância da esterilização e vacinação.
+- **HTML5** – Estruturação do site.
+- **CSS3** – Estilização e responsividade.
+- **JavaScript (ES6+)** – Funcionalidades interativas.
+- **Swiper.js** – Carrossel de imagens interativo.
+- **Font Awesome** – Ícones visuais.
 
-A integração de JavaScript permite recursos interativos, como formulários de contato para solicitar mais informações sobre a adoção de um animal específico ou agendar uma visita ao abrigo. Além disso, a utilização de CSS proporciona um design visualmente atraente e coeso, com cores suaves e elementos de design que refletem a atmosfera acolhedora e compassiva do site.
+## 📂 Estrutura do Projeto
 
-Em suma, o site institucional desenvolvido com HTML, CSS e JavaScript é uma ferramenta valiosa para conectar animais resgatados a lares amorosos, educar o público sobre a importância da adoção responsável e fornecer recursos e suporte aos futuros tutores de animais de estimação.
+```
+📁 Adote-um-Animal
+│-- 📄 index.html         # Página principal
+│-- 📄 style.css          # Estilos personalizados
+│-- 📄 script.js          # Funcionalidades do site
+│-- 📁 img               # Imagens do site
+│-- 📁 fonts             # Arquivos de fontes
+```
 
-# Uma das Fotos do Site
+## 🎨 Layout e Funcionalidades
 
-![Captura de tela 2023-10-15 133429](https://github.com/ewertondrigues02/site-adote-um-animal/assets/106437473/24fc952d-ec3d-4fba-a6c7-02efc39b1283)
+### 🔹 Home
 
+- Vídeo de fundo interativo
+- Mensagem de boas-vindas e chamada para ação
+
+### 🔹 Seção de Adoção
+
+- Lista de animais disponíveis para adoção
+- Descrição detalhada de cada animal
+- Sistema de classificação com estrelas
+
+### 🔹 Formulário de Reserva
+
+- Inputs para local, número de pets, data de chegada e saída
+- Botão para envio da reserva
+
+### 🔹 Login e Cadastro
+
+- Formulário de login com email e senha
+- Opção para lembrar usuário
+- Link para recuperação de senha e criação de conta
+
+## 🛠 Como Executar o Projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/adote-um-animal.git
+```
+
+2. Acesse o diretório do projeto:
+
+```bash
+cd adote-um-animal
+```
+
+3. Abra o arquivo `index.html` no navegador.
+
+## 📌 Melhorias Futuras
+
+- Adicionar um backend para armazenar dados de usuários e animais
+- Implementar um sistema de autenticação real
+- Criar um banco de dados para gerenciar adoções
+- Melhorar acessibilidade e usabilidade
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir e aprimorar a plataforma!
+
+---
+
+💡 *Se você gostou do projeto, não esqueça de dar uma ⭐ no repositório!*
 
